@@ -4,7 +4,7 @@
 
 
 ## I'm currently working as an Associated Director at Verizon!!
-- 👀 I’m interested in finding a similar job to manage software engineers.
+- 👀 I’m open to work.
 - 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on AI and ML
 - 📫 I can be reached at rvellank@yahoo.com or 908-565-3336
@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I like sports and listening to music
 
 
-### Talk with me, I really want to help:
+### Talk with me, we can help each other:
 [<img align="left" alt="IT Leader | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -42,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rkvellanki&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ravi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rkvellanki&show_icons=true&hide_border=true" />
 
 </details>
 
